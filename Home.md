@@ -1,5 +1,5 @@
 ---
-Title: THC Confidential Main Page
-Subtitle: Overview of what THC Confidential can do for you
+title: THC Confidential Main Page
+subtitle: Overview of what THC Confidential can do for you
 ---
 
